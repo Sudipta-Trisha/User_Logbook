@@ -1,6 +1,6 @@
 # User Logbook
 
-![GitHub stars](https://img.shields.io/github/stars/Sudipta-Trisha/User-Logbook) 
+![GitHub stars](https://img.shields.io/github/stars/Sudipta-Trisha/User_Logbook) 
 
 This Django-based web application allows users to manage a list of parents and their associated children. Users can perform operations such as creating, updating, and deleting user data. The application includes a user-friendly interface for easy interaction and employs a simple database model for efficient data handling and storage.
 
@@ -68,7 +68,7 @@ This Django-based web application allows users to manage a list of parents and t
 
 ## Entity-Relationship (ER) Model Diagram
 
-![ER diagram](https://github.com/Sudipta-Trisha/User-Logbook/blob/main/ER%20Diagram.png)
+![ER diagram](https://github.com/Sudipta-Trisha/User_Logbook/blob/main/ER%20Diagram.png)
 
 ## Usage
 * Access a list of individuals with their details in a tabular format.
