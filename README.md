@@ -4,6 +4,8 @@
 
 This Django-based web application allows users to manage a list of parents and their associated children. Users can perform operations such as creating, updating, and deleting user data. The application includes a user-friendly interface for easy interaction and employs a simple database model for efficient data handling and storage.
 
+## Site link - https://django-crud-liard.vercel.app/parents/
+
 ## Table of Contents
    * [Features](#features)
    * [System Requirements](#system-requirements)
